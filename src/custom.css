@@ -1,0 +1,112 @@
+.custom1{
+    z-index: 6 !important;
+    border-width:0px;
+}
+
+.custom2{
+    z-index: 11 !important; white-space: nowrap;text-transform:uppercase !important; color:#ffffff !important; font-weight:900 !important
+}
+
+.custom3{
+    z-index: 13 !important; min-width: 448px; max-width: 448px; white-space: normal; font-weight:400;
+}
+
+.custom4{
+    z-index: 100 !important; white-space: nowrap; font-size: 16px; line-height: 48px; font-weight: 500; color: #563c98;font-family:'Lato', sans-serif;background-color:#fff;border:1px solid #254a93;letter-spacing:1px; display:inline-block; text-transform:uppercase;
+}
+
+.custom5{
+    z-index: 1 !important;background-color:rgba(13,53,128, 0.65);
+}
+
+.custom6{
+    background-color:transparent;padding:0px;
+}
+
+.custom7{
+    visibility: "hidden" !important
+}
+
+.custom8{
+    display:"none"
+}
+
+.ft_middle_wrapper {
+    float: left;
+    width: 20%;
+}
+
+.h1-login{
+    color: white!important;
+    position: relative;
+}
+
+.custom-upcoming{
+    margin-top: 200px;
+}
+
+.upcoming-margin{
+    margin-bottom: 37px;
+
+}
+
+.Mui-selected{
+    color: #0D3580!important;
+    border-color: #0D3580!important;
+}
+
+.footer {
+	float: left;
+    width: 100%;
+    background: #F2F2F2;
+    padding:6px 0px;
+    color:#002398;
+    position:absolute;
+
+}
+.footer-social {
+  text-align: right;
+}
+.footer-social li {
+  display: inline-block;
+}
+.footer-social li a {
+  display: inline-flex;
+  text-align: center;
+  -webkit-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    transition: all 0.5s;
+}
+.footer-social li a:hover i{
+  background:#f7e82d;
+  color:#FFFF;
+  -webkit-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    transition: all 0.5s;
+}
+.footer-social li a i {
+ background: rgba(13,53,128, 0.65);
+    color: rgba(13,53,128, 0.65);
+    border-radius: 50px;
+    height: 40px;
+    line-height: 23px;
+    margin: 0 5px;
+    padding: 9px;
+    width: 40px;
+    font-size: 16px;
+}
+.copy-right p {
+  color: #909090;
+  margin: 0px;
+  font-size:16px;
+}
+.copy-right{
+ margin-top: 8px;
+}
+.copy-right p a{
+	color:#002398;
+}
